@@ -1,0 +1,15 @@
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.csproj.AssemblyReference.cache
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.AssemblyInfoInputs.cache
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.AssemblyInfo.cs
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/bin/Debug/net7.0/Rock Paper Scissors Game
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/bin/Debug/net7.0/Rock Paper Scissors Game.deps.json
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/bin/Debug/net7.0/Rock Paper Scissors Game.runtimeconfig.json
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/bin/Debug/net7.0/Rock Paper Scissors Game.dll
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/bin/Debug/net7.0/Rock Paper Scissors Game.pdb
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.dll
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/refint/Rock Paper Scissors Game.dll
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.pdb
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/Rock Paper Scissors Game.genruntimeconfig.cache
+/Users/egemenerin/Projects/Rock Paper Scissors Game/Rock Paper Scissors Game/obj/Debug/net7.0/ref/Rock Paper Scissors Game.dll
